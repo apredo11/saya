@@ -1,4 +1,8 @@
 pandas
-numpy
+numpy==1.24.3
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e . --build it last after all the code was done
